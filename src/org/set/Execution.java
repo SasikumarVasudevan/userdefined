@@ -74,9 +74,14 @@ public class Execution {
 		}
 	Set<Integer> keySet = m.keySet();
 	System.out.println(keySet);
+<<<<<<< HEAD
+	System.out.println("qa complete");
+	System.out.println("approve");
+=======
 	System.out.println("done");
 	System.out.println("completed");
 	
+>>>>>>> 63faf830ea800a19a6be0ccbe382bbc92293043a
 	}
 
 	}
